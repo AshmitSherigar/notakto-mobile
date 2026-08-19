@@ -52,7 +52,6 @@ export default function TabLayout() {
 const styles = StyleSheet.create({
   icon: {
     fontSize: 16,
-    fontWeight: "light",
   },
 
   iconFocused: {
